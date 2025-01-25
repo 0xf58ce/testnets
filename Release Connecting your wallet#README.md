@@ -1,6 +1,53 @@
-# OKC Testnet
+Reademe.mf
 
-This repo collects the genesis, snapshot data and configuration files for the various OKC
+⛓️ EVM 0xf58ce & DSN yerestephpachuroche.eth⚖️⚖️
+
+    0xf58ce consteth2_dns_claimfull-control of my active ou management and compilation record off verso/tokem 0x0249ca scalability & maximized performance: Based on enhanced Tendermint and Delegated Proof of Stake (DPoS) consensus that can support up to 5000 Transactions per Second (TPS), Web3 applications shall reach their full potential at extremely low cost.$ IBC-compatible, OKTC is a L1 blockchain network built on top of Cosmos SDK that aims for optimal interoperability and performance ✨ Gas Back contract dividend project2:25LTE+13% 
+    conflict 1 wheree
+* error
+,
+"No tienes suficientes ETH para cubrir la comisión de red máx.
+
+Recargar ETH
+
+Revocar aprobación de Desconocido
+
+Revocar aprobación
+
+✔ VERSE
+
+Comisión de red Ethereum
+
+Promedio 0.0001545 ETH ($0.5161)
+
+Dirección de contrato de dapp
+
+0x6b2a57de29e6d73650cb17b7710f27 02b1f73cb8
+
+Mi billetera
+
+0xf58cefd63742d67175404e57124080 6f6b6e0c27
+
+Clave privada - yerestephpachuroc...
+
+Avanzado
+
+Rechazar
+
+Confirmar
+
+The Gas Back contract 0x0249ca dividend project is OKTC's module for developers a real statement issued unit256 value real ? 
+to receive a portion of the fees accumulated by their contracts. Click here to learn more about the rules for participating in Gas Back.
+Contract dividend registration 
+Wallet address 0xf58ce in okx wallet 
+Contract address 0x0249ca 
+Receiving address
+Gas Back rat
+e
+
+# OKC Testnet:
+
+This repo collection is , snapshot data and configuration files for the various OKC
 testnets. It exists so the [OKC repo](https://github.com/okex/exchain)
 does not get bogged down with large genesis files and status updates.
 
