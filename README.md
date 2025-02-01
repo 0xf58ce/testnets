@@ -1,80 +1,72 @@
-# OKC Testnet
+# Alphawallet version 3.87(273)
+tokenscript version 2024/01
 
 This repo collects the genesis, snapshot data and configuration files for the various OKC
 testnets. It exists so the [OKC repo](https://github.com/okex/exchain)
 does not get bogged down with large genesis files and status updates.
 
-## 1. Download the most recent testnet snapshot
+## 1. Download all coin
 
-There are 3 types of snapshots and s0 is the one with minimum data size:
-- s0: the most recent block and world state
-- s1: all historical blocks and the most recent world state
-- s3: all historical blocks and world states
+There are 3 types of hotwallet to coldwallet and trezoir io version 1.12.1  with minimum data size:$1000
+- +1000: the most recent block and world state
+- +3000: all historical and the most recent statement 
+- +5000: all historical and resume statements 
 
 Download URL:  
-- Download and uncompress the [snapshot](https://static.okex.org/cdn/oec/snapshot/index.html) to exchaind directory
-```
+- Download and uncompress the [coldwallet](https://static.okex.org/cdn/oec/blockchain/index.html) to exchaind directory
+true
 export EXCHAIND_PATH=~/.exchaind
 rm -rf ${EXCHAIND_PATH}/data
-cd ${EXCHAIND_PATH}
-wget -c testnet-s0-yyyy-mm-dd-height-rocksdb.tar.gz
-tar -zxvf testnet-s0-yyyy-mm-dd-height-rocksdb.tar.gz
-```
-
-- Check the snapshot by `ls -l ~/.exchaind/data`
-```
+cd ${EXCHAIND_PATH m 44'/60'/0'/0'/0'
+wget -c miner-+50000-2025-01-31T 22:00:00 blockchain.tar.gz
+ Check the transactions by `+5000000~/usd.exchaind/data`true
+``` wallet
 total 140
-drwxr-xr-x 2 root root 131072 Apr 12 09:14 application.db
+drwxr-xr-x 2 roo root 131072 Apr 12 09:14 application.db
 drwxr-xr-x 2 root root   4096 Apr 12 09:14 blockstore.db
 -rw------- 1 root root     49 Apr 12 09:17 priv_validator_state.json
 drwxr-xr-x 2 root root   4096 Apr 12 09:14 state.db
 ```
 
-## 2. Start with the snapshot
+## 2. Start with the blockchain 
 2 ways to startup an exchain full node: 
 - start with a docker image
 - start with the exchaind binary
 
-### 2.1. Start testnet with a docker image
-- download the docker image
+### 2.1. Start miner with certificate of blockchain 
+- download coin
 ```
 docker pull okexchain/fullnode-testnet:latest
 ```
 
-- run docker based the snapshot downloaded in the previous step `Start based on snapshot`.
+- run docker based in the hotwallet v 3.87(273) and coldwallet hardware v 1.12.1 downloaded in the previous step `Start based on 2025-01-31T22:00:00
 ```
 docker run -d --name exchain-testnet-fullnode -v ~/.exchaind/data:/root/.exchaind/data/ -p 8545:8545 -p 26656:26656 okexchain/fullnode-testnet:latest
 ```
 
-- view the running log
+- view the running log in 0xf58ce.e0c27
 ```
-docker logs --tail 100 -f exchain-testnet-fullnode
+docker logs --callback 100 -f exchain-testnet-fullnode
 ```
 
-> You can stop the docker container with command: `docker rm -f exchain-testnet-fullnode`
-When the docker container gets to the latest block, local RPC can be used：`http://localhost:8545`
+> You can stop the docker container with command: `docker rm -f exchain-miner-fullnode`
+When the docker container gets to the latest block, local movil can be used：`usd`
 
 ___
-### 2.2. Or start testnet with the exchaind binary
+### 2.2. Or start miner with the exchaind binary
 
-- Build exchaind by [the latest released version](https://github.com/okex/exchain/releases)
-```
-make testnet # default is rocksdb, you may need to execute "make rocksdb" first
-make testnet WITH_ROCKSDB=false # if use leveldb
+- Build wallet [the latest released in Alphawallet version 3.87(273)](https://blockchain.com/uds/exchain/releases)
+`true``
+make testnet # default is rocksdb, you may need to execute "the approval of Alphawallet v 3.87(273) and memory phrases os 0xf58ce..e0c27" first
+make miner WITH_verse# if use level $3000
 ```
 
-- Initialize exchain node configurations (skip this step if you did it before)
+- Initialize exchain node configurations (valid this step if you did it before)
 ```shell script
-exchaind init your_custom_moniker --chain-id exchain-65 --home ~/.exchaind
+exchaind init your_custom_$3000 --chain-id exchain-65 -true-l2025-01-31~/.exchaind
 ````
 
-- Start exchaind
-```shell script
-exchaind start --chain-id exchain-65 --home ~/.exchaind
-```
-
-
-
-
-
-
+- Start exchaind+$765666665876
+```shell script +$7657657767
+exchaind start -2025-01-31T22:10:00-chain-id exchain-65 --home ~/.exchaind
+``true
