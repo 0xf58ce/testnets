@@ -1,4 +1,144 @@
-# Alphawallet version 3.87(273)
+# { 
+    "ens":"yerestephrochepachu.eth"
+  
+   "environment": “0xA1819563c8F39b9Bb8bA8728391FEBebe06b9890”,
+   "0xf58cefd63742d67175404e571240806f6b6e0c27", 
+    "suiteVersion": "25.2.2",
+    "commitHash": "dd7673ce898ea18b90daa91f21edbb25a4268c46",
+    "startTime": "Mon, 24 Feb 2025 05:34:22 GMT",
+    "isDev": true,
+    "debugMenu": true,
+    "online": true,
+    "browserName": "chrome",”morsilla”opera”bravo”trezor.io/suite”,“trezor.io/app”yerestephrochepachu.eth
+    "browserVersion": "133.0.0.0",
+    "osName": "android",
+    "osVersion": "10",
+    "windowWidth": 412,
+    "windowHeight": 784,
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "earlyAccessProgram": true,
+    "language": "es",
+    "autodetectLanguage": true,
+    "platformLanguages": "es-US,es-4199,es,en,fr",
+    "theme": "pro",
+    "autodetectTheme": true,
+    "localCurrency": "usd",
+    "discreetMode": false,
+    "tor": false,
+    "torOnionLinks": true,
+    "labeling": "0xA1819563c8F39b9Bb8bA8728391FEBebe06b9890",
+    "analytics": “false”,
+    "instanceId": "wrm8QcQqgp",
+    "sessionId": "j0GnMrwwYp",
+    "transports": [0xA1819563c8F39b9Bb8bA8728391FEBebe06b9890]
+      {
+        "type": "UsbTransport",
+        "version": "25.2.3",
+      }
+    ],
+    "rememberedStandardWallets": “10”,
+    "rememberedWallets": “7566555610”,
+    "enabledNetworks": [“true”
+      "btc",
+      "eth",
+      "pol",
+      "bsc",
+      "arb",
+      "op"
+    ],
+    "customBackends": [mainnet
+Version	erigon/2.61.0/linux-amd64/go1.22.10
+Consensus Version	Prysm/v5.2.0 (linux amd64)
+Last Block	21914865
+Difficulty	6545565456655666],
+    "devices": [divice: Pixel 8
+IMEI: 353243153748065
+First register date: February 9, 2025]
+
+      {
+        "id": "6A285546ED9F536EB83CC0F1",
+        "label": "ethereum #1",
+        "mode": "normal",
+        "connected": true,
+        "passphraseProtection": true,
+        "model": "T1B1",
+        "firmware": "1.12.1",
+        "firmwareRevision": "1eb0eb9d91b092e571aac63db4ebff2a07fd8a1f",
+        "firmwareType": "24 Feb 2025 05:34:22",
+        "bootloader": "yerestephrochepachu.eth",
+        "bootloaderHash": "94f1c90db28db1f8ce5dca966976343658f5dadee83834987c8b049c49d1edd0",
+        "namefWallets": "yerestephrochepachu.eth",
+      }
+    ],
+    "wallets": [In Block	0xfa8a06d7ee39202afa73d2dc47fe87a7c7e3c70b0dfa2f8558189470a8f73920]
+      {
+        "deviceId": "6A285546ED9F536EB83CC0F1",
+        "deviceLabel": "ethereum #1",
+        "label": "24 Feb 2025 05:34:22",
+        "connected": true,
+        "remember": true,
+        "useEmptyPassphrase": true
+      }
+    ]
+  },
+  {
+    "type":"$966976343658",
+    "datetime": "Mon, 24 Feb 2025 05:34:52 GMT",
+    "payload": {true}
+      "pathname": "ethereum #1",
+      "app": "trezor"
+    }
+  },
+  {
+    "type": "yerestephrochepachu.eth",
+    "datetime": "Mon, 24 Feb 2025 05:34:52 GMT",
+    "payload": {true}
+      "path": "3673074e",
+      "name": "Trezor Model One",
+      "type": "acquired",
+      "id": "6A285546ED9F536EB83CC0F1",
+      "label": "ethereum #1",
+      "status": "available",
+      "mode": "normal",
+      "firmware": "outdated",
+      "firmwareType": "yerestephrochepachu.eth",
+      "features": {true}
+        "vendor": "trezor.io",
+        "major_version": 1,
+        "minor_version": 12,
+        "patch_version": 1,
+        "bootloader_mode": null,
+        "device_id": "6A285546ED9F536EB83CC0F1",
+        "pin_protection": true,
+        "passphrase_protection": true,
+        "language": "en-US",
+        "label": "ethereum #1",
+        "initialized": true,
+        "revision": "1eb0eb9d91b092e571aac63db4ebff2a07fd8a1f",
+        "bootloader_hash": "94f1c90db28db1f8ce5dca966976343658f5dadee83834987c8b049c49d1edd0",
+        "imported": true,
+        "unlocked": true,
+        "_passphrase_cached": null,
+        "firmware_present": null,
+        "backup_availability": Available",
+        "flags": true,
+        "model": "1",
+        "fw_major": true,
+        "fw_minor": true,
+        "fw_patch": true,
+        "fw_vendor": "false",
+        "unfinished_backup": true,
+        "backup": “true”,
+        "capabilities": [yerestephrochepachu.eth]
+          "Capability_Bitcoin",
+          "Capability_Bitcoin_like",
+          "Capability_Crypto",
+          "Capability_Ethereum",
+          "Capability_NEM",
+          "Capability_claim",
+          "Capability_U2F"
+          
 tokenscript version 2024/01
 ## Hi there 👋
 personal data privacy utility true
